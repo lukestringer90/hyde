@@ -83,6 +83,11 @@ html {
   font-size: 3.25rem;
 }
 
+.sidebar-about img {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /* Sidebar nav */
 .sidebar-nav {
   margin-bottom: 1rem;
@@ -131,6 +136,12 @@ a.sidebar-nav-item:focus {
     max-width: 38rem;
     margin-left: 20rem;
     margin-right: 2rem;
+  }
+}
+
+@media (min-width: 48em) {
+  .sidebar-about img {
+    margin-left: 0em;
   }
 }
 
