@@ -1,6 +1,9 @@
 ---
-layout: post
+layout: note
 title: Swift Summit 2015
+when: 21st - 22nd March 2015
+year: 2015
+where: London 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 ---
 
 
@@ -13,8 +16,6 @@ Swift Summit [website link](https://www.swiftsummit.com), [twitter link](http://
 ---
 
 Here are the notes I took. They should not be considered definitive or 100% accurate to the content presented, they are more just a reminder of some cool and interesting things that were said. Where possible I have tried to find links to the slides or presentation material.
-
-**Pull requests to correct inaccuracies are very welcome.**
 
 ## Functional View Controllers
 

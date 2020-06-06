@@ -1,13 +1,14 @@
 ---
-layout: post
+layout: note
 title: iOSCon 2017
+when: 30th - 31st March 2017
+year: 2017
+where: London 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 ---
 
 [iOSCon2017](https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers#skillscasts)  was held at [CodeNode](https://skillsmatter.com/locations/264-skills-matter-codenode) on 30 and 31st March 2017.
 
 Below are the notes I took. These should not be considered definitive or 100% accurate to the content presented - they are more a reminder of things I found interesting and useful. Where possible I have tried to find links to the slides or presentation material.
-
-**Pull requests to correct inaccuracies are very welcome.**
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: note
 title: UIKonf 2018
+when: 13th - 16th May 2018
+year: 2018
+where: Berlin 🇩🇪
 ---
 
-
 [Website](http://www.uikonf.com)
-
-13th - 16th May 2018. 
 
 450 + attendees. 41 countries.
 

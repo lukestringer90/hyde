@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: note
 title: DDD North 2020
+when: 29th Feb 2020
+year: 2020
+where: University of Hull 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 ---
-
-February 29th 2020, at the University of Hull
 
 ## Talking about Talking 
 

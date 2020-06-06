@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: note
 title: DDD North 2017
+when: 14th Oct 2017
+year: 2017
+where: Univeristy of Bradford 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 ---
-
-Saturday 14th October 2017, University of Bradford.
 
 ## The Power of Mentoring
 

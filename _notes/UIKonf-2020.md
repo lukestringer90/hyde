@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: note
 title: UIKonf 2020
+when: 18th - 19th May 2020
+year: 2020
+where: Remote 🖥
 ---
-
-May 18th-19th 2020, 
 
 Held remotely using Hopin. A mixture of Youtube live streaming, screen sharing, Zoom and in-browser video calling.
 
