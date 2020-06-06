@@ -18,3 +18,8 @@ plugins:
 
 # Custom vars
 version:          3.0.0
+
+
+collections:
+  notes:
+      output: true
