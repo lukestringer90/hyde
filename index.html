@@ -3,35 +3,14 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url | absolute_url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+<h1>Hi, I'm Luke 👋</h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+<p>I’m an Engineering Manager and iOS Developer from Sheffield, UK.</p>
 
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
+<p>I go by <strong>lukestringer90</strong> on most social media sites. Find me on <a href="http://twitter.com/lukestringer90">Twitter</a>, <a href="http://github.com/lukestringer90">GitHub</a>, <a href="https://www.linkedin.com/in/lukestringer90">Linkedin</a></p>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | absolute_url }}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ '/' | absolute_url }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ paginator.previous_page_path | absolute_url }}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
+<p>In my non-digital life I’m a dad and partner. I enjoy <a href="https://vimeo.com/418887825">playing guitar</a> and <a href="https://vimeo.com/76717147">juggling</a>.</p>
+
+<p>This website stores my <a href="/blog">blog</a>, <a href="/conference_notes">conference notes</a> and my <a href="/cv">CV</a>.</p>
+
 </div>
