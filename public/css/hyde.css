@@ -107,6 +107,16 @@ a.sidebar-nav-item:focus {
   font-weight: bold;
 }
 
+.social svg {
+  width: auto;
+  height: 20px;
+  fill: rgba(255,255,255,.5);
+}
+
+.social svg:hover {
+  fill: #fff;
+}
+
 /* Sticky sidebar
  *
  * Add the `sidebar-sticky` class to the sidebar's container to affix it the
