@@ -3,7 +3,7 @@ title:            Luke Stringer
 tagline:          'TAGLINE'
 description:      'Engineering Manager and iOS Developer'
 url:              http://lukestringer.me
-baseurl:          ''
+baseurl:          /
 paginate:         5
 
 # About and contact
