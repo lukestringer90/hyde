@@ -1,8 +1,7 @@
 # Setup
 title:            Luke Stringer
-tagline:          'TAGLINE'
+tagline:          '@lukestringer90'
 description:      'Engineering Manager and iOS Developer'
-url:              http://lukestringer.me
 baseurl:          /
 paginate:         5
 
