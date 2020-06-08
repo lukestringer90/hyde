@@ -2,7 +2,6 @@
 title:            Luke Stringer
 tagline:          '@lukestringer90'
 description:      'Engineering Manager and iOS Developer'
-baseurl:          /
 paginate:         5
 
 # About and contact
@@ -14,10 +13,6 @@ author:
 plugins:
   - jekyll-paginate
   - jekyll-gist
-
-# Custom vars
-version:          3.0.0
-
 
 collections:
   notes:
