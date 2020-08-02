@@ -4,7 +4,7 @@ title: CV
 ---
 
 Contact me via
-- Email: `luke at stringer.me`
+- Email: `luke at stringer dot dev`
 - [Twitter](http://twitter.com/lukestringer90)
 - [GitHub](http://github.com/lukestringer90)
 - [Linkedin](https://www.linkedin.com/in/lukestringer90)
