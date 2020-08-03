@@ -18,3 +18,10 @@ collections:
   notes:
       output: true
       sort_by: year
+plugins:
+  - jekyll-analytics
+
+jekyll_analytics:
+  GoogleAnalytics:          
+    id: UA-174388719-1     
+    anonymizeIp: false 
