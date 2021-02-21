@@ -1,7 +1,8 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
-      <a href="/"><img src="{{ '/assets/avatar.png' | absolute_url }}" alt="Luke Stringer's Avatar"><a href="/"></a>
+      <a href="/"><img src="{{ '/assets/avatar.png' | absolute_url }}" onmouseover="this.src='{{ '/assets/avatar-smile.png' | absolute_url }}';" onmouseout="this.src='{{ '/assets/avatar.png' | absolute_url }}';" alt="Luke Stringer's Avatar"><a href="/"></a>
+
       <h1>
         <a href="/">
           {{ site.title }}
