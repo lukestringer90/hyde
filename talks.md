@@ -3,7 +3,7 @@ layout: page
 title: Talks
 ---
 
-I enjoy public speaking and try to do it as often as I can. This page collates all the talks I have given. All my slides are avaiable on [Speakerdeck](http://speakerdeck.com/lukestringer90/).
+I enjoy public speaking and try to do it as often as I can. This page collates all the talks I have given. All my slides are available on [Speakerdeck](http://speakerdeck.com/lukestringer90/).
 
 ## Debugging with Git
 
@@ -34,11 +34,11 @@ A look into how [3Squared](https://www.3squared.com/) use version control to ena
 Presented at 
 
 - The University of Sheffield Institute of Coding talks 2019 & 2020
-- Sheffield Hallam Univiersty. To computing students each a year since 2016
+- Sheffield Hallam University. To computing students each a year since 2016
 
 <script async class="speakerdeck-embed" data-id="3f342b66a66b41dc95a884d0bb2f8870" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
-## A Swift Jounrey
+## A Swift Journey
 
 The story (so far) of how the mobile team at [3Squared](https://www.3squared.com/) moved to 100% Swift development for all new iOS projects. Topics covered include:
 
@@ -47,7 +47,7 @@ The story (so far) of how the mobile team at [3Squared](https://www.3squared.com
 - A tour of the reusable code components developed by the team which are now used in all new apps.
 - The plan for the future - how to get off Objective-C for good!
 
-Presented at [NSManchester](https://twitter.com/nsmanchester?lang=en) Feburary 2017
+Presented at [NSManchester](https://twitter.com/nsmanchester?lang=en) February 2017
 
 <script async class="speakerdeck-embed" data-id="fe3f0e75283e4fcfa3bd4065ba33ca03" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
