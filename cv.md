@@ -13,7 +13,7 @@ Contact me via
 
 ## Profile
 
-An adept engineering manager with 9 years commercial iOS development experience. A confident, organised, pragmatic and honest leader, I have a proven record of delivering multi-platform projects. I enjoy collaborating to turn requirements in quality solutions, and I am passionate about getting hands on to architect, design, code, test and deploy mobile and web applications.
+An adept engineering manager with 9 years commercial iOS development experience. A confident, organised, pragmatic and honest leader, I have a proven record of delivering multi-platform projects to private and public sector organisations. I enjoy collaborating with colleagues across disciplines, and I am passionate designing, architecting, coding, testing and deploying mobile and web applications.
 ## Technical Skills
 * Objective-C, Ruby, Unix
 * Core Data, Networking, NSOperation, Core Location, UIDocument, StoreKit
