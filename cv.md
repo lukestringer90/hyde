@@ -25,7 +25,7 @@ Contact me via
 
 * **2018: Head of Development at [3Squared](http://3squared.com)**.
     * Lead a cross-discipline team of 25 developers (.NET, iOS, Android) to build the RailSmart suite of logistics and operations software for the UK Rail Industry.
-	* Unified the web and mobile disciplines into a single department, with shared vision, leadership and management structure.
+	* Unified the web and mobile disciplines into a single department, with a shared vision, leadership and management structure.
 	* Recruited at multiple levels (Graduates to Senior Engineers), growing the team by 50% during the first year of my leadership.
 	* Implemented a graduate scheme to train junior developers. Oversaw four graduates through to subsequent promotion.
 	* Embedded a technical strategy to facilitate move to SaaS, focusing on simpler, consistent tech stacks and approaches, across different platforms and 25+ codebases.
@@ -40,7 +40,7 @@ Contact me via
 * **2015: Head of Mobile at [3Squared](http://3squared.com)**.
 	* Lead a team of 6 iOS and Android developers, supporting and guiding both their technical and professional development through 1-2-1s, goal setting and appraisals.
 	* Planned and managed the transition from Objective-C to Swift (starting at version 2.2). I identified the right commercial opportunities and staff, got sign off on the business case, and ensured the projects delivered on time while using the new language and approaches.
-	* Defined Swift best practice and interoperability with Objective-C, getting agreement within the team. All new projects began using 100% Swift since 2017, and older and larger Objective-C codebases were re-written gradually - now 2/3 in Swift by 2021.
+	* Defined Swift best practice and interoperability with Objective-C, getting agreement within the team. All new projects used 100% Swift since 2017, and older, larger Objective-C codebases were gradually re-written - now 75% in Swift by 2021.
 	* Standardised iOS components into small, reusable packages using CocoaPods so they can be used across multiple projects. Open sourced these as "The Peak Framework" on GitHub.
 	* Technical leadership to deliver projects with tight timelines and a challenging clients. I worked as a developer on these projects while overseeing the technical delivery with the project management, updating clients and external stakeholders where required.
 	* Worked with Operational Management Team to implement new policies such as Agile rituals, standardised appraisal approaches, and inclusive recruitment principles.
@@ -62,7 +62,7 @@ Contact me via
 	* After being unable to find an app to build Excel-style pivot tables I decided to build one myself.
 	* Used Swift to to create an algorithm to parse a CSV file into a configurable pivot table. Reverse engineered requirements from Excel and implemented following TDD principles. Open sourced as PeakPivot and integrated as a swift package into Pivot.
 	* Used UIDocumentBrowser to load CSV files and save custom ".pivot" files back to file providers.
-	* Used RevenueCat for server side receipt validation, implementing a one time in-app-purhcase unlocking all features after a 7 day free trial.
+	* Used RevenueCat for server side receipt validation, implementing a one time in-app-purchase unlocking all features after a 7 day free trial.
 	* Built as a universal app, supporting all size classes, and dark and light mode.
 	* Created an app landing webpage, and TestFlight sign up form using the FastLane Boarding Ruby Gem hosted on Heroku.
 * **Open Source**
