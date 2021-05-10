@@ -13,45 +13,49 @@ Contact me via
 
 ## Profile
 
-An adept engineering manager with 9 years commercial iOS development experience. A confident, organised, pragmatic and honest leader, I have a proven record of delivering multi-platform projects to private and public sector organisations. I enjoy collaborating with colleagues across disciplines, and I am passionate designing, architecting, coding, testing and deploying mobile and web applications.
+An adept engineering manager with 9 years commercial iOS development experience. I am a confident, organised, pragmatic and honest leader, with a proven record of delivering multi-platform projects to private and public sector organisations. I enjoy collaborating with colleagues across disciplines, and I am passionate about designing, architecting, coding, testing and deploying mobile and web applications.
 ## Technical Skills
-* Objective-C, Ruby, Unix
-* Core Data, Networking, NSOperation, Core Location, UIDocument, StoreKit
-* iOS Signing and Provisioning
+* Objective-C, Swift, Ruby
+* UIKit, Core Data, Networking, NSOperation, Core Location, UIDocument, Store Kit, Map Kit, Adaptive Layout, Storyboards, XCTest
+* Signing, Provisioning, Fastlane, xcodebuild
 * Object & Protocol Oriented Development, Test Driven Development
-* Swift Package Manager, CocoaPods, Git Submodules
+* Swift Package Manager, CocoaPods, Git Submodules, Ruby Gems, Bundler
+* REST, SOAP, XML, JSON, Message Queues, Apple Push Notifications
 * Xcode, Fork, SourceTree, Postman, Charles, Visual Studio Code, Pixelmator
 * App Store Connect, TestFlight, Apple Developer Portal, Apple Business Manager
-* GitLab, GitHub, GitHub Pages, Heroku, Azure Functions, Jekyll
-* Visual Studio App Center, Bugfender, RevenueCat
+* GitLab, GitHub, GitHub Pages, Heroku, Azure Functions, Jekyll, Jira
+* App Center, Bugfender, RevenueCat
 
 ## Career Summary
 
 **2018: Head of Development at [3Squared](http://3squared.com)**.
-* Lead a team of 25 developers (Native iOS, Native Android, ASP.NET, Vue.js) to build the RailSmart software suite. Implemented a cohesive and inclusive team vision and management approach.
-* Recruited at multiple levels (Graduates to Senior Engineers), growing the team by 50% during the first year of my leadership. Implemented a graduate scheme to train and mentor junior developers.
-* Designed and embedded a technical strategy to move to SaaS, focusing on simpler, consistent tech stacks and approaches, across different platforms and 20+ codebases. Standardised reusable packages with SPM, NPM, NuGet, using them across the product suite in both new and old projects.
+
+3Squared builds safety and operations software for Freight and Passenger Rail Operators in the UK.
+
+* Lead a team of 25 developers (Native iOS, Native Android, ASP.NET, Vue.js) to build the RailSmart software suite. Implemented a cohesive and inclusive team vision and management * approach.
+* Recruited at multiple levels (Graduates to Senior Engineers), growing the team by 50% during the first year of my leadership. Implemented a graduate scheme to train and mentor * junior developers.
+* Designed and embedded a technical strategy to move to SaaS, focusing on simpler, consistent tech stacks and approaches, across different platforms and 20+ codebases. Standardised * reusable packages with SPM, NPM, NuGet, using them across the product suite in both new and old projects.
 * Planned and managed technology transitions including CocoaPods to Swift Package Manager, ASP.NET Web Forms to Vue.js, Octopus Deploy to Azure DevOps, and on-prem GitLab to GitHub.
 * Mentored developers new to leadership, allowing me to manage the larger team through them.
 * Managed team resourcing, identifying developers with the right technical and soft skills for projects.
-* Defined the web API architecture to integrate with systems at Network Rail. Worked with internal and external technical teams to implement a phased approach to integration with our applications, with longer terms goals to offer the solution as a product to the wider market.
-* Planned the transition to Federated Identity for our SaaS products. Identified the complexities across our platforms, aligning them with infrastructure, testing, UX, and cost considerations.
-* Regularly a part of sales activity, working on bid and tender documentation to win big contracts with Network Rail and HS2. Defined technical approach to delivering software in multi-year iterations.
-* Managed a quick transition into remote work in March 2020. Adapted my communication approach and the team structure to better suit remote work, supporting individual team member personally.
+* Defined the web API architecture to integrate with systems at Network Rail. Worked with internal and external technical teams to implement a phased approach to integration with our * applications, with longer terms goals to offer the solution as a product to the wider market.
+* Planned the transition to Federated Identity for our SaaS products. Identified the complexities across our platforms, aligning them with infrastructure, testing, UX, and cost * considerations.
+* Regularly a part of sales activity, working on bid and tender documentation to win big contracts with Network Rail and HS2. Defined technical approach to delivering software in * multi-year iterations.
+* Managed a quick transition into remote work in March 2020. Adapted my communication approach and the team structure to better suit remote work, supporting individual team members * personally.
 
 **2015: Head of Mobile at [3Squared](http://3squared.com)**.
 * Lead a team of 6 iOS and Android developers, supporting and guiding both their technical and professional development through 1-2-1s, goal setting and appraisals.
-* Planned and managed the transition from Objective-C to Swift (starting at version 2.2). Defined our  best practise for migration and interoperability. All new projects used 100% Swift after 2017, and older, larger Objective-C codebases were gradually re-written; now 75% in Swift by 2021.
-* Standardised iOS components into small, reusable packages using CocoaPods. Used them across all new and old projects, and open sourced as "The Peak Framework" on GitHub.
-* Technical leadership and iOS development on projects with tight timelines and a challenging clients. I organised the team to work concurrently. I gave updates to clients and worked with Project Management to update company directors on our progress.
-* Worked with Operational Management Team to implement new policies such as Agile rituals, standardised appraisal approaches, and inclusive recruitment principles.
+* Planned and managed the transition from Objective-C to Swift (starting at version 2.2). Defined our  best practise for migration and interoperability. All new projects used 100% * Swift after 2017, and older, larger Objective-C codebases were gradually re-written; now 75% in Swift by 2021.
+* Standardised iOS components into small, reusable packages using CocoaPods. Used them across all new and old projects, and open sourced as The Peak Framework on GitHub.
+* Technical leadership and iOS development on projects with tight timelines and challenging clients. I organised the team to work concurrently. I gave updates to clients and worked with Project Management to update company directors on our progress.
+* Worked as part of the Operational Management Team to implement new policies such as Agile rituals, standardised appraisal approaches, and inclusive recruitment principles.
 * Responsible for managing the company’s App Store Connect and Enterprise Developer Accounts, as well as supporting the setup and admin of customers’ Apple accounts and MDMs.
 * Reduced errors and saved time by automating builds. Used Ruby and xcodebuild to standardise app versioning and signing. Released for QA and production (App Store) using Team City on a Git push.
 
 **2014: Senior iOS Software Engineer at [3Squared](http://3squared.com)**.
 * Mentored mobile developers, designed induction projects and trained them in our best practices.
-* Trained the team in XCTest and TDD, and best practise for Git and branching with GitFlow.
-* Built multiple native iOS app in the RailSmart Suite. Specialised in data synchronisation performance, identifying best approaches for Core Data,  threading, web API calls and JSON serialisation.
+* Trained the team in XCTest and TDD, and best practise for Git and branching with Git Flow.
+* Estimated, designed and built multiple native iOS app in the RailSmart Suite. Specialised in data synchronisation performance, identifying best approaches for Core Data, threading, web API calls and JSON serialisation.
 * Completed a research project for Crossrail. Used iBeacons, Core Location, and trilateration to determine user position. Ran trials at the Bond Street site and wrote a recommendations report.
 
 **2012: iOS Software Engineer at [3Squared](http://3squared.com)**.
