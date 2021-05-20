@@ -10,7 +10,7 @@ I really enjoy attending technical conferences. Often I take notes while I am th
   <li><a href="notes/Swift-Summit-2015">Swift Summit 2015</a> | London 🏴󠁧󠁢󠁥󠁮󠁧󠁿 </li>
   <li>iOSDevUK 2016 | University of Aberyswyth 🏴󠁧󠁢󠁷󠁬󠁳󠁿</li>
   <li>iOSDevUK 2017 | University of Aberyswyth 🏴󠁧󠁢󠁷󠁬󠁳󠁿</li>
-  <li><a href="notes/iOSCon-2017">iOSCon 2017</a> | London 🏴󠁧󠁢󠁷󠁬󠁳󠁿</li>
+  <li><a href="notes/iOSCon-2017">iOSCon 2017</a> | London 🏴󠁧󠁢󠁥󠁮󠁧󠁿</li>
   <li><a href="notes/DDD-North-2017">DDD North 2017</a> | Univeristy of Bradford 🏴󠁧󠁢󠁥󠁮󠁧󠁿 </li>
   <li><a href="notes/UIKonf-2018">UIKonf 2018</a> | Berlin 🇩🇪 </li>
   <li>ADDC 2019 | Barcelona 🇪🇸</li>
