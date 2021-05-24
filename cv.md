@@ -41,7 +41,7 @@ An adept engineering manager with 9 years commercial iOS development experience.
 * Defined the web API architecture to integrate with systems at Network Rail. Worked with internal and external technical teams to implement a phased approach to integration with our applications, with longer terms goals to offer the solution as a product to the wider market.
 * Planned the transition to Federated Identity for our SaaS products. Identified the complexities across our platforms, aligning them with infrastructure, testing, UX, and cost considerations.
 * Regularly a part of sales activity, working on bid and tender documentation to win big contracts with Network Rail and HS2. Defined technical approach to delivering software in multi-year iterations.
-* Managed a quick transition into remote work in March 2020. Adapted my communication approach and the team structure to better suit remote work, supporting individual team members oersonally.
+* Managed a quick transition into remote work in March 2020. Adapted my communication approach and the team structure to better suit remote work, supporting individual team members personally.
 
 **2015: Head of Mobile at [3Squared](http://3squared.com)**.
 * Lead a team of 6 iOS and Android developers, supporting and guiding both their technical and professional development through 1-2-1s, goal setting and appraisals.
